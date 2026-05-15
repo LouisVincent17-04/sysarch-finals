@@ -1,0 +1,10 @@
+REQUIREMENTS:
+Python 3.8 or higher
+pip install pandas numpy matplotlib seaborn
+
+if not working, try adding:
+pip install tkinter
+
+RUN:
+    python src/main.py
+
